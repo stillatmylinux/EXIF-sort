@@ -1,9 +1,11 @@
 # EXIF-sort
-Sorting jpeg files by date from EXIF
+Sorting jpeg files by date from EXIF.
+
 Sorted files will have structure:
-folder name is date of your jpeg file
-file name is time of your jpeg file
-!!! all data from EXIF
+
+Folder name is date of your jpeg file.
+File name is time of your jpeg file.
+!!! All data from EXIF.
 
 How to use:
 
