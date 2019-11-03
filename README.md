@@ -7,6 +7,8 @@ file name is time of your jpeg file
 
 How to use:
 
+Run exifgui.py file.
+
 Put to "source" path to your *.jpeg files, which you want yo sort.
 
 Put to "destination" path to your destination folder.
