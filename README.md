@@ -1,5 +1,5 @@
 # EXIF-sort
-Sorting jpeg files by date from EXIF.
+Sorting jpeg files by date and time from EXIF.
 
 Sorted files will have structure:
 
