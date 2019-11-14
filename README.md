@@ -13,7 +13,7 @@ Run exifgui.py file.
 
 Put to "source" path to your *.jpeg files, which you want yo sort.
 
-Put to "destination" path to your destination folder.
+Put to "destination" your destination folder path.
 
 Push "run"
 
